@@ -14,15 +14,9 @@
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
 <img align="left" height="20" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg">
 <img align="left" height="20" src="https://tinyurl.com/y4mnauc3">
+
 <br />
 
-___
-
-### 📫 Where to find me
-- [Facebook](https://facebook.com/zeeshanrafique23) 😉
-- [Twitter](https://twitter.com/zeeshanrafiq23) 🐤
-- [Instagram](https://instagram.com/zeeshanrafique23) 😎
-- [LinkedIn](https://linkedin.com/in/zeeshanrafique23) 👨💼
 <br />
 
 ___
