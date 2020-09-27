@@ -35,9 +35,3 @@ ___
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanrafique23&layout=compact&hide_border=true" />
 </a>
 </details>
-
-<br />
- 
-<h1 align='center'><i>It’s not a bug. It’s an undocumented feature!</i></h1>
-
-
