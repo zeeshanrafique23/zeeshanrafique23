@@ -13,7 +13,6 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" height="20" src="https://www.clipartmax.com/png/small/166-1666865_algoholic-a-coders-blog-matlab-icon-png.png">
-<img align="left" height="20" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg">
 <img align="left" height="20" src="http://tiny.cc/5h2ysz"> 
 <img align="left" height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzO9X0W6WNMpcWCryfTa0OpdkhCxmpywSQgw&usqp=CAU">
 <img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png">
