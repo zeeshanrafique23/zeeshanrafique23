@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Zeeshan Rafique. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">I'm Hardware Design Engineer [RISC-V]</p>
+<p align="center">I'm RTL Design Engineer [RISC-V]</p>
 
 ### 💻 Languages and Tools: 
   
