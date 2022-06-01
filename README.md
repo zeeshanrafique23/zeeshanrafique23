@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/zeeshanrafique23/"><img height="30" src="img/linkedin.png"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Zeeshan Rafique. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hello there! My name is Zeeshan Rafique.</h2>
 <p align="center">I'm RTL Design Engineer [RISC-V]</p>
 
 ### 💻 Languages and Tools: 
