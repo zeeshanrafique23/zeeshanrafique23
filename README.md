@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">Hello there! My name is Zeeshan Rafique.</h2>
-<p align="center">I'm RTL Design Engineer [RISC-V]</p>
+<p align="center">I'm an RTL Design Engineer [RISC-V]</p>
 
 ### 💻 Languages and Tools: 
   
