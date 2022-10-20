@@ -27,6 +27,7 @@
 
 </div>
 
-<br />  
+<br />
+<hr >
 <p align="center">Visit my portfolio @ <a href="https://zeeshanrafique.me"> zeeshanrafique.me </a> :flying_saucer: </p>
 
