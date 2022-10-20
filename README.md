@@ -8,7 +8,7 @@
 <h2 align="center">Hello there! My name is Zeeshan Rafique.</h2>
 <p align="center">I'm an RTL Design Engineer [RISC-V]</p>
 
-<p align="center"> I am an RTL design engineer with a strong background in Computer Architecture and Digital Logic Design. I have deep knowledge of System on Chip components like bus protocols and peripheral communication with CPU whereas I love to work on RISC-V based CPUs. My research focus area is to improve computation speed and power optimization in hardware for Machine Learning applications. </p>
+<p> I am an RTL design engineer with a strong background in Computer Architecture and Digital Logic Design. I have deep knowledge of System on Chip components like bus protocols and peripheral communication with CPU whereas I love to work on RISC-V based CPUs. My research focus area is to improve computation speed and power optimization in hardware for Machine Learning applications. </p>
 
 ### 💻 Languages and Tools: 
 * SystemVerilog
@@ -16,7 +16,8 @@
 * CHISEL
 * C / C++
 * Python
-<img src="https://github.com/zeeshanrafique23/zeeshanrafique23/tree/master/img/vlsi.gif"></img>
+
+<img height="30" src="https://github.com/zeeshanrafique23/zeeshanrafique23/tree/master/img/vlsi.gif"></img>
   
 <br />
   
