@@ -5,19 +5,28 @@
 <a href="https://www.linkedin.com/in/zeeshanrafique23/"><img height="30" src="img/linkedin.png"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Zeeshan Rafique.</h2>
-<p align="center"><em><strong>"I'm an RTL Design Engineer"</strong></em></p>
+<h2 align="center">Hi there! My name is Zeeshan Rafique.</h2>
+<p align="center"><em><strong>"RTL Design Engineer"</strong></em></p>
 
-<p> I am an RTL design engineer with a strong background in Computer Architecture and Digital Logic Design. I have deep knowledge of System on Chip components like bus protocols and peripheral communication with CPU whereas I love to work on RISC-V based CPUs. My research focus area is to improve computation speed and power optimization in hardware for Machine Learning applications. </p>
+<p> I am an RTL design engineer with a strong background in Computer Architecture and Digital Logic Design. I have deep knowledge of System on Chip components like bus protocols and peripheral communication with CPU, although I love to work on RISC-V based CPUs. My research focus area is to improve computation speed and power optimization in hardware for Machine Learning applications. </p>
 
-### 💻 Languages and Tools: 
-* SystemVerilog
-* Verilog
-* CHISEL
+<div>  
+
+<img align="right" height="310" width="45%" src="img/vlsi.gif"></img>   
+
+### 💻 Languages: 
+* SystemVerilog, Verilog, CHISEL
+* RISC-V Assembly
 * C / C++
-* Python
+* Python, Bash, tcl
 
-<img height="100" src="img/vlsi.gif">
-  
-<br />
-  
+### :trackball: Tools:
+* Xcelium, Questa Sim, Vivado (xsim), Verilator, iCarus Verilog, GTK wave
+* Vivado (synthesis and implementation), AWS Cloud FPGA
+* Genus, Yosys
+
+</div>
+
+<br />  
+<p align="center">Visit my portfolio @ <a href="https://zeeshanrafique.me"> zeeshanrafique.me </a> :flying_saucer: </p>
+
