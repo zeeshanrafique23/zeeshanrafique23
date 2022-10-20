@@ -12,7 +12,7 @@
 
 <div>  
 
-<img align="right" height="310" width="45%" src="img/vlsi.gif"></img>   
+<img align="right" width="45%" src="img/vlsi.gif"></img>   
 
 ### 💻 Languages: 
 * SystemVerilog, Verilog, CHISEL
