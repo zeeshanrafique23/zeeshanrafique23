@@ -17,7 +17,7 @@
 * C / C++
 * Python
 
-<img height="30" src="https://github.com/zeeshanrafique23/zeeshanrafique23/tree/master/img/vlsi.gif"></img>
+<img height="100" src="img/vlsi.gif">
   
 <br />
   
