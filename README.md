@@ -8,7 +8,7 @@
 <h2 align="center">Hi there! My name is Zeeshan Rafique.</h2>
 <p align="center"><em><strong>"RTL Design Engineer"</strong></em></p>
 
-<p> I am an RTL design engineer with a strong background in Computer Architecture and Digital Logic Design. I have deep knowledge of System on Chip components like bus protocols and peripheral communication with CPU, although I love to work on RISC-V based CPUs. My research focus area is to improve computation speed and power optimization in hardware for Machine Learning applications. </p>
+<p> I am an RTL design engineer with a strong background in Computer Architecture and Digital Logic Design. I have deep knowledge of System on Chip components like bus protocols and peripheral communication with CPU. My research focus area is to improve computation speed and power optimization in hardware for Machine Learning applications. </p>
 
 <div>  
 
